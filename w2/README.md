@@ -1,4 +1,4 @@
-# H1 **My Day** 
+# **My Day** 
 1. Wake up 
 2. actually get up and make my breakfast
     - *Wait atleast 2 hours before i go to the gym*
