@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 15px;
+    border: 10px;
+}
+summary{
+    background-color: white;
+    border: black;
+    padding: 10px;
+}
+details{
+    background-color: blanchedalmond;
+    padding: 10px;
+}
