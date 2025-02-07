@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(198, 224, 180);
+    color: rgb(255, 255, 255);
+    padding: 10px 0;
+    /* border: 10px red dashed; */
+}
+
+main{
+    margin: 15px;
+    padding: 15px;
+    background-color: blanchedalmond;
+}
+
+footer{
+    background-color: burlywood;
+    color: white;
+    padding: 10px 0;
+}
+
+label{
+    display: block;
+}
+
+.outline{
+    border: 1px black solid;
+
+}
+
