@@ -1,0 +1,17 @@
+- change the background photo 
+- change the Name on the website to my Name
+- Change the about information to my what applies to me
+- remove out the testimonials to none or just replace it with people i know
+- change the porfolio picutres 
+- under the portfolio page change the buttons name to different names
+- replace the dropdown button or change it to something else
+- replace the contact information 
+- take out or change the "contact me with your information box"
+- add a picture of me in the about tab
+- change the numbers in the facts
+    - its undert the about page
+- on the services page add some content 
+    - first find content on what should be on it
+- add a continous scroll on the about page
+- add a change to day/night time background
+- add more content on the home page
