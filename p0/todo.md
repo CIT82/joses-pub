@@ -1,6 +1,6 @@
 - [x] change the background photo 
 - [x] change the Name on the website to my Name
-- Change the about information to my what applies to me
+- Change the about inffkormation to my what applies to me
 - remove out the testimonials to none or just replace it with people i know
 - [x] change the porfolio picutres 
 - [x] under the portfolio page change the buttons name to different names
@@ -15,3 +15,8 @@
 - add a continous scroll on the about page
 - add a change to day/night time background
 - [x] add more content on the home page
+
+
+- done with portfolio
+- done with education 
+- done with certification
